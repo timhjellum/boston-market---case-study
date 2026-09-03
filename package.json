@@ -16,8 +16,8 @@
     "workbox-webpack-plugin": "^7.0.0"
   },
   "version": "1.0.0",
-  "description": "Case Study",
-  "name": "Case Study",
+  "description": "Boston Market - Portfolio - Case Study - Tim (Timber) Hjellum",
+  "name": "Boston Market - Portfolio - Case Study - Tim (Timber) Hjellum",
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "build:dev": "webpack --mode=development",
