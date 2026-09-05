@@ -1,7 +1,7 @@
 # boston-market---case-study #
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://boston-market.netlify.app//deploys)
 
-
+![boston market](images/boston-market.png)
 
 ```
 deliverable/
