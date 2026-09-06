@@ -5,9 +5,7 @@
 
 ```
 deliverable/
-├── index.html
 ├── styles.less
-├── scripts.js
 └── src/
     ├── favicon.svg
     ├── favicon.ico
@@ -16,7 +14,6 @@ deliverable/
     ├── apple-touch-icon.png
     ├── android-chrome-192x192.png
     ├── android-chrome-512x512.png
-    └── site.webmanifest
 ```
 
 
