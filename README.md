@@ -5,7 +5,7 @@
 
 
 
-<img src="images/android-chrome-512x512.png" alt="" style="aspect-ratio: 1; max-width: 200px" >
+<img src="images/android-chrome-512x512.png" alt="" style="aspect-ratio: 1; max-width: 25%" >
 
 
 
