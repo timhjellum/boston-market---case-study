@@ -5,22 +5,22 @@
 
 
 
-<img src="images/android-chrome-512x512.png" alt="" style="aspect-ratio: 1; max-width: 25%" >
+<img src="images/android-chrome-512x512.png" alt="" width="200" height="200" />
 
 
 
-![Boston Market](images/android-chrome-192x192.png)
+<img src="images/android-chrome-192x192.png)
 
-![Boston Market](images/apple-touch-icon.png)
-![Boston Market](images/favicon-16x16.png)
-![Boston Market](images/favicon-32x32.png)
-![Boston Market](images/favicon-96x96.png)
-![Boston Market](images/favicon.ico)
-![Boston Market](images/favicon.png)
-![Boston Market](images/ms-icon-150x150.png)
-![Boston Market](images/ms-icon-310x310.png)
-![Boston Market](images/ms-icon-70x70.png)
-![Boston Market](images/mstile-150x150.png)
+<img src="images/apple-touch-icon.png" alt="" width="200" height="200" />
+<img src="images/favicon-16x16.png" alt="" width="16" height="16" />
+<img src="images/favicon-32x32.png" alt="" width="32" height="32" />
+<img src="images/favicon-96x96.png" alt="" width="96" height="96" />
+<img src="images/favicon.ico" alt="" width="16" height="16" />
+<img src="images/favicon.png" alt="" width="16" height="16" />
+<img src="images/ms-icon-150x150.png" alt="" width="150" height="150" />
+<img src="images/ms-icon-310x310.png)" alt="" width="200" height="200" />
+<img src="images/ms-icon-70x70.png" alt="" width="70" height="70" />
+<img src="images/mstile-150x150.png" alt="" width="150" height="150" />
 ---
 
 ### How to build this app ###
