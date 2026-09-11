@@ -6,7 +6,6 @@
 ![Boston Market](images/android-chrome-192x192.png)
 ![Boston Market](images/android-chrome-512x512.png)
 ![Boston Market](images/apple-touch-icon.png)
-![Boston Market](images/boston-market - Copy.png)
 ![Boston Market](images/favicon-16x16.png)
 ![Boston Market](images/favicon-32x32.png)
 ![Boston Market](images/favicon-96x96.png)
