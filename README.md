@@ -42,7 +42,7 @@
 <figure><img src="images/ms-icon-150x150.png" alt="" width="150" height="150" />
   <figcaption>ms-icon-150x150.png</figcaption>
 </figure>
-<figure><img src="images/ms-icon-310x310.png)" alt="" width="200" height="200" />
+<figure><img src="images/ms-icon-310x310.png" alt="" width="200" height="200" />
   <figcaption>ms-icon-310x310.png</figcaption>
 </figure>
 <figure><img src="images/ms-icon-70x70.png" alt="" width="70" height="70" />
