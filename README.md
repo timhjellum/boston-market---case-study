@@ -17,10 +17,9 @@
 </figure>
 <figure>
 <img src="images/android-chrome-192x192.png" alt="" width="192" height="192" />
-  <figcaption></figcaption>
+  <figcaption>android-chrome-192x192.png</figcaption>
 </figure>
-<figure>
-<img src="images/apple-touch-icon.png" alt="" width="200" height="200" />
+<figure><img src="images/apple-touch-icon.png" alt="" width="200" height="200" />
     <figcaption>apple-touch-icon.png</figcaption>
 </figure>
 <figure>
