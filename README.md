@@ -6,10 +6,11 @@
 
 
 <img src="images/android-chrome-512x512.png" alt="" width="200" height="200" />
+512
 
 
-
-<img src="images/android-chrome-192x192.png)
+<img src="images/android-chrome-192x192.png" alt="" width="192" height="192" />
+192
 
 <img src="images/apple-touch-icon.png" alt="" width="200" height="200" />
 <img src="images/favicon-16x16.png" alt="" width="16" height="16" />
