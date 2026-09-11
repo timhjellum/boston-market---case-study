@@ -3,6 +3,19 @@
 
 ![Boston Market](images/og-image.jpg)
 
+![Boston Market](images/android-chrome-192x192.png)
+![Boston Market](images/android-chrome-512x512.png)
+![Boston Market](images/apple-touch-icon.png)
+![Boston Market](images/boston-market - Copy.png)
+![Boston Market](images/favicon-16x16.png)
+![Boston Market](images/favicon-32x32.png)
+![Boston Market](images/favicon-96x96.png)
+![Boston Market](images/favicon.ico)
+![Boston Market](images/favicon.png)
+![Boston Market](images/ms-icon-150x150.png)
+![Boston Market](images/ms-icon-310x310.png)
+![Boston Market](images/ms-icon-70x70.png)
+![Boston Market](images/mstile-150x150.png)
 ---
 
 ### How to build this app ###
