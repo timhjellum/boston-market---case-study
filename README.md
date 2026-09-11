@@ -3,8 +3,14 @@
 
 ![Boston Market](images/og-image.jpg)
 
+
+
+<img src="images/android-chrome-512x512.png" alt="" style="aspect-ratio: 1; max-width: 200px" >
+
+
+
 ![Boston Market](images/android-chrome-192x192.png)
-![Boston Market](images/android-chrome-512x512.png)
+
 ![Boston Market](images/apple-touch-icon.png)
 ![Boston Market](images/favicon-16x16.png)
 ![Boston Market](images/favicon-32x32.png)
